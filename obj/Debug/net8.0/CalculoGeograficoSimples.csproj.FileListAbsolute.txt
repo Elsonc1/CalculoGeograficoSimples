@@ -1,0 +1,14 @@
+C:\Users\Elson\source\repos\CalculoGeograficoSimples\bin\Debug\net8.0\CalculoGeograficoSimples.exe
+C:\Users\Elson\source\repos\CalculoGeograficoSimples\bin\Debug\net8.0\CalculoGeograficoSimples.deps.json
+C:\Users\Elson\source\repos\CalculoGeograficoSimples\bin\Debug\net8.0\CalculoGeograficoSimples.runtimeconfig.json
+C:\Users\Elson\source\repos\CalculoGeograficoSimples\bin\Debug\net8.0\CalculoGeograficoSimples.dll
+C:\Users\Elson\source\repos\CalculoGeograficoSimples\bin\Debug\net8.0\CalculoGeograficoSimples.pdb
+C:\Users\Elson\source\repos\CalculoGeograficoSimples\obj\Debug\net8.0\CalculoGeograficoSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elson\source\repos\CalculoGeograficoSimples\obj\Debug\net8.0\CalculoGeograficoSimples.AssemblyInfoInputs.cache
+C:\Users\Elson\source\repos\CalculoGeograficoSimples\obj\Debug\net8.0\CalculoGeograficoSimples.AssemblyInfo.cs
+C:\Users\Elson\source\repos\CalculoGeograficoSimples\obj\Debug\net8.0\CalculoGeograficoSimples.csproj.CoreCompileInputs.cache
+C:\Users\Elson\source\repos\CalculoGeograficoSimples\obj\Debug\net8.0\CalculoGeograficoSimples.dll
+C:\Users\Elson\source\repos\CalculoGeograficoSimples\obj\Debug\net8.0\refint\CalculoGeograficoSimples.dll
+C:\Users\Elson\source\repos\CalculoGeograficoSimples\obj\Debug\net8.0\CalculoGeograficoSimples.pdb
+C:\Users\Elson\source\repos\CalculoGeograficoSimples\obj\Debug\net8.0\CalculoGeograficoSimples.genruntimeconfig.cache
+C:\Users\Elson\source\repos\CalculoGeograficoSimples\obj\Debug\net8.0\ref\CalculoGeograficoSimples.dll
